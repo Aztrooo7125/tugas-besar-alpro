@@ -1,24 +1,24 @@
 # Sistem Reservasi Hotel
 
-MENU UTAMA:
-1. Registrasi (buat role user)
-2. Login (untuk kedua role)
-3. End (keluar dari sistem)
+**MENU UTAMA:**
+  1. Registrasi (buat role user)
+  2. Login (untuk kedua role)
+  3. End (keluar dari sistem)
 
-fitur" role admin:
-1. login (maks 3 kali)
-2. lihat akun user
-3. tambah tipe kamar
-4. lihat data reservasi (data reservasi berdasarkan abjad, mencari berdasarkan nama) 
-5. cek pendapatan 
+**Fitur-Fitur Role Admin:**
+1. Login (maks 3 kali)
+2. Lihat akun user
+3. Tambah tipe kamar
+4. Lihat data reservasi (data reservasi berdasarkan abjad, mencari berdasarkan nama) 
+5. Cek pendapatan 
 
-fitur" di role user:
-1. login (maks 3 kali)
-2. lihat tipe kamar (berdasarkan harga  kamar dari termurah hingga termahal) 
+**Fitur-Fitur Role User:**
+1. Login (maks. 3 kali)
+2. Lihat tipe kamar (berdasarkan harga  kamar dari termurah hingga termahal) 
 3. Cek Saldo 
 4. Top up saldo 
-5. pesan kamar (pilih tipe kamar, jumlah malam penginapan, harga total dan pembayaran)
-6. data reservasi (menampilkan data kamar hotel yg dipesan oleh user itu sendiri)
+5. Pesan kamar (pilih tipe kamar, jumlah malam penginapan, harga total dan pembayaran)
+6. Data reservasi (menampilkan data kamar hotel yg dipesan oleh user itu sendiri)
 
 ## Features
 
