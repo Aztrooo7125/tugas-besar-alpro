@@ -1,6 +1,24 @@
 # Sistem Reservasi Hotel
 
-Isi part ini pake deskripsi dari Tugas Besar lu pada.
+MENU UTAMA:
+1. Registrasi (buat role user)
+2. Login (untuk kedua role)
+3. End (keluar dari sistem)
+
+fitur" role admin:
+1. login (maks 3 kali)
+2. lihat akun user
+3. tambah tipe kamar
+4. lihat data reservasi (data reservasi berdasarkan abjad, mencari berdasarkan nama) 
+5. cek pendapatan 
+
+fitur" di role user:
+1. login (maks 3 kali)
+2. lihat tipe kamar (berdasarkan harga  kamar dari termurah hingga termahal) 
+3. Cek Saldo 
+4. Top up saldo 
+5. pesan kamar (pilih tipe kamar, jumlah malam penginapan, harga total dan pembayaran)
+6. data reservasi (menampilkan data kamar hotel yg dipesan oleh user itu sendiri)
 
 ## Features
 
